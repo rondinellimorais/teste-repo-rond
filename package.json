@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "date-fns": "2.14.0",
     "minimist": "1.2.0",
-    "node.extend": "1.1.6",
-    "date-fns": "2.14.0"
+    "node.extend": "1.1.6"
+  },
+  "devDependencies": {
+    "semver": "^7.3.2"
   }
 }
