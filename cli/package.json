@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "npm-registry-fetch": "^8.1.3",
+    "semver": "^7.3.2"
+  }
 }
