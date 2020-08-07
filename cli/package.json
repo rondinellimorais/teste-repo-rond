@@ -1,5 +1,5 @@
 {
-  "name": "analise_versao",
+  "name": "cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,10 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "date-fns": "2.14.0",
-    "minimist": "1.2.0",
-    "node.extend": "1.1.6"
-  }
+  "license": "ISC"
 }
