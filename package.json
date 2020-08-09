@@ -10,9 +10,25 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node.extend": "1.1.6",
-    "minimist": "1.2.0",
-    "date-fns": "2.14.0",
-    "apollo-server-lambda": "2.14.1"
+    "chai": "^4.2.0",
+    "depcheck": "^0.9.2",
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "husky": "^2.3.0",
+    "mocha": "^6.2.2",
+    "nyc": "^14.1.1",
+    "serverless": "1.58.0",
+    "serverless-dotenv-plugin": "^2.3.2",
+    "serverless-log-forwarding": "^1.4.0",
+    "serverless-mocha-plugin": "^1.11.0",
+    "serverless-offline": "5.12.0",
+    "serverless-plugin-common-excludes": "^3.0.0",
+    "serverless-plugin-include-dependencies": "^4.1.0",
+    "serverless-plugin-package-size": "^1.1.0",
+    "sinon": "^8.0.4"
   }
 }
