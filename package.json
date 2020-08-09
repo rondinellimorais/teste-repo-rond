@@ -10,12 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-link-http": "^1.5.17",
-    "apollo-server": "2.9.9",
-    "apollo-server-lambda": "^2.14.3",
+    "@hapi/joi": "^17.1.0",
+    "@midway/bff-core": "^2.0.24",
+    "apollo-server": "^2.10.0",
+    "apollo-server-lambda": "^2.10.0",
+    "cpf-cnpj-validator": "^1.0.1",
     "dotenv": "^8.2.0",
-    "graphql": "14.5.8",
-    "graphql-tools": "4.0.6",
-    "serverless-log-forwarding": "^1.4.0"
+    "graphql": "^14.6.0",
+    "moment": "^2.24.0",
+    "uuidv4": "^6.1.0"
   }
 }
