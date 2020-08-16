@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node.extend": "1.1.6"
+    "node.extend": "1.1.7"
   }
 }
