@@ -10,8 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node.extend": "1.1.6",
-    "minimist": "1.2.0",
-    "date-fns": "2.14.0"
+    "node.extend": "1.1.6"
   }
 }
